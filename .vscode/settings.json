@@ -5,5 +5,7 @@
         "node_modules{,/**}",
         ".vscode{,/**}",
         ".env"
-    ]
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/61a0adc4-286c-4bed-9303-d820d16b61c7/AppServices/subscriptions/61a0adc4-286c-4bed-9303-d820d16b61c7/resourceGroups/idsio-prod-webauthnsites-rg1/providers/Microsoft.Web/sites/webauthntest",
+    "appService.deploySubpath": "."
 }
